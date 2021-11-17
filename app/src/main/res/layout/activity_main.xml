@@ -90,7 +90,7 @@
                 android:id="@+id/dessertSoldText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:fontFamily="sans-serif-medium"
+                android:fontFamily="@font/opensans_regular"
                 android:text="@string/dessert_sold"
                 android:textSize="@dimen/medium_text_size"
                 app:layout_constraintBottom_toBottomOf="@+id/amountSoldText"
